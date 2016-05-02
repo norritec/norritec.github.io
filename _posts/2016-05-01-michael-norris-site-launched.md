@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Michael Norris, Launches Site, NorriTec"
-date: 2014-04-30
+date: 2016-05-01
 ---
 
 Well. I finally finshed school so I thought I would finally get around to putting this website together.
