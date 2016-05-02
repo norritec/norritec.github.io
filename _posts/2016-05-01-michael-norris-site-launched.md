@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "NMichael Norris, Launches Site, NorriTec"
+title: "Michael Norris, Launches Site, NorriTec"
 date: 2014-04-30
 ---
 
