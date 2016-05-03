@@ -10,13 +10,13 @@ and start on this week.  I have been kicking around something simple and oh so v
 like that seems to be what everyone starts with after they get done with school.  My problem with it is that I do not what
 just a plan everyday note app.  I want all of the bells and whistles on mine.  Listed below are just some of the things I want
 to do with my app:
-    - Take notes(obviously)
-    - Share the notes
-    - Camera/Video
-    - Dropbox
-    - GoogleDrive
-    - Geo-location
-    - Manage by Order
+        - Take notes(obviously)
+        - Share the notes
+        - Camera/Video
+        - Dropbox
+        - GoogleDrive
+        - Geo-location
+        - Manage by Order
 
 Those are just to name a few of the ideas for what I want mine to have.  I will be starting this probably tomorrow since Tiff,
 my wife, is flying home this afternoon.  She was at Walt Disney World for some training for booking Disney travel for people.
