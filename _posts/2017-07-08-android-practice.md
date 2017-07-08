@@ -4,7 +4,10 @@ title: "Android Practice"
 date: 2017-07-08
 ---
 
-![sunrise](/images/code1.jpg) <!-- .element height="50%" width="50%" -->Calculator App.
+
+<p align="center">
+  <img src="/images/code1.jpg" width="256" title="Calculator App">
+</p>
 
 Today I am spending some time working on Android apps and continuing to increase my skills as a developer.  The only problem working from home is the five highly active dogs that we have.  One of them is constantly wanting attention and to play.  But let's see what we can do about doing some coding.
 
